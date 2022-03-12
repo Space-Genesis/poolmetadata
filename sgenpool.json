@@ -3,5 +3,5 @@
   "description": "Build your UNIVERSE",
   "ticker": "SGEN",
   "homepage": "https://genesis.space/",
-  "extended": "https://sgenpool.github.io/extended-metadata.json"
+  "extended": "https://space-genesis.github.io/poolmetadata/extended-metadata.json"
 }
