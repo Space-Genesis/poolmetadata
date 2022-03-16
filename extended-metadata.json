@@ -1,9 +1,21 @@
 {
   "info": {
+    "url_png_icon_64x64": "https://space-genesis.github.io/poolmetadata/imgs/logo-64.png",
+    "url_png_logo": "https://space-genesis.github.io/poolmetadata/imgs/clogo-256.png",
+    "location": "USA",
+    "social": {
+      "twitter_handle": "sgenuniverse",
+      "telegram_handle": "spacegenesisgroup"
+    },
     "about": {
       "me": "We are developing an advanced metaverse platform on Cardano.",
       "server": "Our stake pool is hosted in the cloud and is highly reliable."
     }
- }
-
+  },
+  "my-pool-ids": {
+    "0": "40960205ad46c9883d32eaf4ab512ab2ea2962d5fd52a4a470df5125"
+  },
+  "telegram-admin-handle": {
+    "0": "sgenuniverse"
+  }
 }
